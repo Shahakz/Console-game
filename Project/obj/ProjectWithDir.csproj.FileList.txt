@@ -1,0 +1,2 @@
+obj\Release\ProjectWithDir.exe
+obj\Release\ProjectWithDir.pdb
